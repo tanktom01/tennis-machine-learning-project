@@ -9,7 +9,7 @@ Big thanks to (https://github.com/abdullahtarek/tennis_analysis) who was the ori
 
 ### Models Used
 
-I've removed most of the models due GitHub space limits, you will need to go through and get the datasources and train these models yourself, I reccoend using google collab if you do not have access to a gpu
+I've removed most of the models due GitHub space limits, you will need to go through and get the data sources and train these models yourself, I recommend using google collab if you do not have access to a gpu
 
     YOLO v8 for player detection
 
